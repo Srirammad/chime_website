@@ -1,0 +1,293 @@
+.navbg_chime{
+	
+	font-family:"dm sans",sans-serif;
+	font-size:16px;
+	background-color:#0D4029;
+	
+}
+.navposition_chime{
+	position:sticky;
+	top:0px;
+	z-index:2;
+}
+.navbar{
+	padding:10px;
+}
+.mainnav_chime{
+	color:white;
+}
+.bt{
+	color:#0d4029;
+	background-color:#1EC677;
+	height:50px;
+	width:150px;
+	margin-left:10px;
+}
+.bt:hover{
+	color:white;
+}
+.loginnav{
+	color:white;
+	margin-left:80px;
+}
+.online_checking_chime{
+	margin-top:80px;
+	color:#0D4029;
+	font-family:"dm sans",sans-serif;
+}
+.online_checkingpara_chime{
+	font-size:17px;
+}
+#online_checkingparaid_chime{
+	margin-top:30px;
+}
+#online_checkingh1_chime{
+	font-size:40px;
+}
+#online_checkingbt_chime{
+	height:40px;
+	margin-left:-10px;
+}
+#email{
+	
+	height:40px;
+}
+#online_checkingbt_chime:hover{
+	color:white;
+	background-color:#1EC677;
+}
+.registration_chime{
+	margin-top:40px;
+}
+.sub_nav_chime{
+	background-color:#0D4029;
+
+	font-family:"dm sans",sans-serif;
+}
+.subnave_chime{
+	margin-left:100px;
+	padding-top:20px;
+}
+.sub_nav_chime{
+	margin-top:50px;
+}
+.nava_chime{
+	color:white;
+}
+.designed_for_you_chime{
+	margin-top:50px;
+	color:#0D4029;
+}
+.cards_chime{
+	margin-top:60px;
+}
+.card_chime{
+	font-family:"dm sans",sans-serif;
+	width:455px;
+	height:500px;
+	color:#CCF2D2;
+	background-color:#0D4029;
+	padding:100px 50px 0 30px;
+	
+	border-radius:30px;
+	height:500px;
+}
+.cardmenu_chime{
+	margin-top:10px;
+}
+.card2_chime{
+	font-family:"dm sans",sans-serif;
+	color:#0D4029;
+	width:455px;
+	height:500px;
+	background-color:#1EC677;
+	padding:100px 50px 0 30px;
+	
+	border-radius:30px;
+	height:500px;
+}
+.card2img_chime{
+	padding-left:100px;
+}
+.cradli_chime{
+	margin-top:50px;
+}
+.ratings_chime{
+	color:#0D4029;
+	background-color:#CCF2D2;
+	padding-top:50px;
+	margin-top:50px;
+	
+}
+
+#review_chime{
+	margin-left:10px;
+	padding-top:50px;
+	display:inline-block;
+	font-size:30px;
+}
+.apple_logo_chime{
+	margin-top:-25px;
+	width:80px;
+	height:80px;
+	display:inline;
+}
+.total_views_chime{
+	margin-left:80px;
+	display:inline;
+}
+.playstorelogo_chime{
+	margin-top:-25px;
+	width:80px;
+	height:80px;
+	display:inline;
+}
+#playstorereview_chime{
+	margin-left:10px;
+	padding-top:50px;
+	display:inline-block;
+	font-size:30px;
+}
+.ptotal_views_chime{
+	margin-left:80px;
+	display:inline;
+}
+.checking_vs_traditional_chime{
+	color:#0D4029;
+	background-color:#ECF9EE;
+}
+.checking_vs_traditionalmar_chime{
+	margin-top:150px;
+}
+.tbl_chime{
+	padding:40px;
+	margin-top:30px;
+	margin-bottom:80px;
+}
+.tabletd_chime{
+	padding:40px;
+}
+.checking_forfree_chime{
+	background-color:#0D4029;
+	color:white;
+	padding:50px;
+}
+.get_start_chime{
+	margin-bottom:50px;
+}
+.how_sign_up{
+	color:#0D4029;
+	margin-top:100px;
+}
+.fstpoint_chime{
+	margin-bottom:30px;
+}
+.sign_up_card_chime{
+	font-family:"dm sans",sans-serif;
+	width:400px;
+	height:500px;
+	background-color:#CCF2D2;
+	color:#0D4029;
+	padding:100px 50px 0 30px;
+	
+	border-radius:30px;
+	height:500px;
+}
+.sign_up_card2_chime{
+	font-family:"dm sans",sans-serif;
+	width:400px;
+	height:500px;
+	background-color:#CCF2D2;
+	color:#0D4029;
+	padding:100px 50px 0 30px;
+	
+	border-radius:30px;
+	height:500px;
+}
+.secondpoint_chime{
+	margin-bottom:30px;
+}
+.appstore_cardimg1_chime{
+	margin-top:30px;
+}
+.checkup_googleplay_chime{
+	margin-top:30px;
+}
+.sign_up_cards{
+	margin-top:60px;
+}
+.checkpc_chime{
+	
+	padding:30px;
+	border:1px solid black;
+	border-style:hidden hidden solid hidden;
+}
+.checkpcbody_chime{
+	color:#0D4029;
+	
+}
+.achorch_chime:hover{
+	text-decoration:none;
+}
+.panelmar_chime{
+	margin-top:30px;
+}
+.tle{
+	color:#0D4029;
+	font-size:bold;
+}
+.FAQs_chime{
+	margin-top:50px;
+	margin-left:30px;
+}
+.tabs_chime{
+	margin-top:40px;
+}
+.faqh1_chime{
+	color:#0D4029;
+}
+.googleplay_chime{
+	margin-top:-20px;
+}
+.twitter{
+	margin-left:20px;
+}
+.instagram{
+	margin-left:20px;
+}
+.hr1{
+	color:black;
+}
+.aboutus_chime{
+	padding-top:80px;
+	border:1px solid black;
+	border-style:solid hidden hidden hidden;
+}
+.contact_chime{
+	margin-top:90px;
+	background-color:#ECF9EE;
+	color:#0D4028;
+	
+}
+
+.list_item_chime{
+	font-family: "Noto Sans", sans-serif;
+	margin-top:10px;
+}
+.contactmar_chime{
+	margin-top:70px;
+	margin-bottom:40px;
+	
+}
+a{
+	
+	color:#0D4029;
+}
+li{
+	list-style:none;
+}
+a:hover{
+	text-decoration:none;
+	color:#1ec677;
+}
+
