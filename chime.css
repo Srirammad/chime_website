@@ -1,1 +1,290 @@
-efe
+.navbg_chime{
+	
+	font-family:"dm sans",sans-serif;
+	font-size:16px;
+	background-color:#0D4029;
+	
+}
+.navposition_chime{
+	position:sticky;
+	top:0px;
+	z-index:2;
+}
+.navbar{
+	padding:10px;
+}
+.mainnav_chime{
+	color:white;
+}
+
+.bt{
+	color:#0d4029;
+	background-color:#1EC677;
+	height:50px;
+	width:150px;
+	margin-left:10px;
+	
+	
+}
+.bt:hover{
+	color:white;
+	
+}
+
+.loginnav{
+	color:white;
+	margin-left:80px;
+}
+.mypaycontent_chime{
+	font-family:"dm sans",sans-serif;
+	
+	color:white;
+	padding-top:100px;
+}
+.getmypay_chime{
+	background-color:#0D4029;
+}
+.mypaylogo_chime{
+	height:36px;
+	width:169px;
+	margin-left:15px;
+}
+.vedioheadline_chime{
+	font-size:150px;
+}
+.mypaybtn_chime{
+	background-color:#1EC677;
+	color:#0D4029;
+	padding:10px 25px;
+	width:300px;
+}
+.mypaybtn_chime:hover{
+	color:white;
+}
+.learnmore_chime{
+	border:solid;
+	background-color:#0D4029;
+	padding:10px 25px;
+	
+}
+.learnmore_chime:hover{
+	background-color:#0D4029;
+	color:gray;
+}
+.mypay_chime{
+	margin-top:-70px;
+}
+.myvideo_chime{
+	margin-top:100px;
+	border:1px hidden black;
+	border-radius:10px;
+}
+.bankingappscont_chime{
+	color:#0D4029;
+}
+.bankingapps_chime{
+	margin-top:50px;
+}
+.mostapps_chime{
+	margin-left:90px;
+	margin-top:-40px;
+}
+.padapps_chime{
+	margin-left:170px;
+	margin-top:-40px;
+}
+.foreignbaks_chime{
+	margin-top:150px;
+	padding-top:30px;
+	border:1px solid black;
+	border-style:solid hidden hidden hidden;
+}
+.overdraft_chime{
+	font-family:"dm sans",sans-serif;
+	margin-top:30px;
+	padding-top:80px;
+	padding-bottom:100px;
+	color:#0D4029;
+	background-color:#ECF9EE;
+}
+.overdraftcont_chime{
+	margin-top:90px;
+}
+.ovbt:hover{
+	color:white;
+	background-color:black;
+}
+.todaycontent_chime{
+	color:#0D4029;
+	margin-top:150px;
+}
+.today_chime{
+	padding-top:70px;
+}
+.paratoday_chime{
+	font-family:"dm sans",sans-serif;
+}
+.btg:hover{
+	color:white;
+	background-color:black;
+}
+.paidearly_chime{
+	margin-top:70px;
+	color:#0D4029;
+	background-color:#CCF2D2;
+}
+.paidearlyimg_chime{
+	margin-top:70px;
+	margin-bottom:110px;
+}
+.earlypaycont_chime{
+	margin-top:170px;
+}
+.saygoodbye_chime{
+	margin-top:70px;
+	color:#0D4029;
+}
+.saygoodbyepara_chime{
+	font-family:"dm sans",sans-serif;
+}
+.waytobuild_chime{
+	margin-top:70px;
+	background-color:#1ec677;
+	
+	
+}
+.waytobuildimg_chime{
+	font-family:"dm sans",sans-serif;
+	margin-top:90px;
+	color:#0D4029;
+	margin-bottom:110px;
+}
+.waytobuildcont_chime {
+	margin-top:120px;
+}
+.waytobuildbt{
+	margin-top:20px;
+}
+#waytobuildp_chime{
+	margin-top:10px;
+}
+.waytobuildh1_chime{
+	margin-top:-10px;
+}
+.fastpay_chime{
+	font-family:"dm sans",sans-serif;
+	margin-top:90px;
+	color:#0D4029;
+}
+.fastpayh2_chime{
+	margin-top:-10px;
+}
+.fastpaycont_chime{
+	margin-top:80px;
+}
+.makemoneyfast_chime{
+	color:#0D4029;
+	background-color:#CCF2D2;
+}
+.makemoneyfasth1_chime{
+	margin-top:-40px;
+}
+#makemoneyfastpara_chime{
+	font-family:"dm sans",sans-serif;
+}
+#makemoneyfastid_chime{
+	margin-bottom:30px;
+}
+.feefreedeposite_chime{
+	margin-top:90px;
+}
+.feefreedepositecontent_chime{
+	font-family:"dm sans",sans-serif;
+	color:#0D4029;
+	margin-top:-50px;
+}
+.securitysupport_chime{
+	margin-top:50px;
+	color:white;
+	background-color:#0D4028;
+	padding-top:40px;
+}
+.securitysupporthead_chime{
+	margin-top:-10px;
+	
+}
+.securitypara-chime{
+	font-family:"dm sans",sans-serif;
+	font-size:20px;
+}
+.securityhead-chime{
+	font-size:40px;
+}
+#securitysupportbtn_chime{
+	margin-bottom:70px;
+}
+.securitysupportcon_chime{
+	margin-top:50px;
+}
+.register_chime{
+	margin-top:60px;
+	color:#0D4029;
+	padding-top:70px;
+}
+.registerh1_chime{
+	font-size:50px;
+	
+}
+.registerpara_chime{
+	font-size:20px;
+}
+#registerid_chime{
+	margin-top:-10px;
+	margin-left:-5px;
+}
+
+
+.contact_chime{
+	margin-top:90px;
+	background-color:#ECF9EE;
+	color:#0D4028;
+	
+}
+
+.list_item_chime{
+	font-family: "Noto Sans", sans-serif;
+	margin-top:10px;
+}
+.contactmar_chime{
+	margin-top:70px;
+	margin-bottom:40px;
+	
+}
+a{
+	
+	color:#0D4029;
+}
+li{
+	list-style:none;
+}
+a:hover{
+	text-decoration:none;
+	color:#1ec677;
+}
+.googleplay_chime{
+	margin-top:-20px;
+}
+.twitter{
+	margin-left:20px;
+}
+.instagram{
+	margin-left:20px;
+}
+.hr1{
+	color:black;
+}
+.aboutus_chime{
+	padding-top:80px;
+	border:1px solid black;
+	border-style:solid hidden hidden hidden;
+}
